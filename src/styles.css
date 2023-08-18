@@ -79,6 +79,8 @@ body {
 
 .status {
   margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 1.5em;
 }
 .game {
   display: flex;
@@ -86,5 +88,12 @@ body {
 }
 
 .game-info {
-  margin-left: 20px;
+  margin-left: 30px;
+}
+
+.move-button {
+  margin-bottom: 5px;
+  background-color: cyan;
+  border-radius: 5px;
+  border-color: rgb(14, 14, 54);
 }
